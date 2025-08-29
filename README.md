@@ -1,4 +1,4 @@
-# Bishal Wai B Sprache Schule
+# Bishal Waiba Sprache Schule
 
 Welcome to my personal website repository! 🌐  
 This website is for my **German language teaching (A1–B2)** and **personal vlogs**.
